@@ -1,6 +1,5 @@
-# generateShortUrl
-草田签提供生成短网址稳定接口
----
+《草田签》免费提供生成短网址稳定接口
+==
 接口名称：	generateShortUrl<br>
 接口用途：	短网址生成接口<br>
 method：	POST<br>
