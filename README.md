@@ -9,7 +9,7 @@ method：	POST<br>
 
 key|参数类型|是否必须|参数解释
 :--:|:--:|:--:|:--:
-secretKey|string|是|密钥【7554nbyd864tb4a26vaaf34cba9cqe28e】
+secretKey|string|是|官方公开秘钥:7554nbyd864tb4a26vaaf34cba9cqe28e
 url|string|是|长网址
 
 返回数据|
